@@ -1,0 +1,1 @@
+# Practical-exercise-Google-BigQuery-
